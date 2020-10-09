@@ -1,0 +1,9 @@
+2020-10-09T17:13:51-0400 [INFO    ] dandi Traversing remote dandisets (000037) recursively
+2020-10-09T17:13:51-0400 [INFO    ] backups2datalad.py Updating metadata file
+2020-10-09T17:13:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-411400/sub-411400_ses-20181015T173410_behavior+ophys.nwb
+2020-10-09T17:13:52-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:13:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-411771/sub-411771_ses-20181003T174857_behavior+ophys.nwb
+2020-10-09T17:13:52-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:13:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-411771/sub-411771_ses-20181008T172946_behavior+ophys.nwb
+2020-10-09T17:13:53-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:13:53-0400 [INFO    ] backups2datalad.py Commiting changes
